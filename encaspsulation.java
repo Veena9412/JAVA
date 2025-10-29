@@ -1,4 +1,5 @@
  /*Encapsulation refers to binding the similar data together and restricting the data access directly*/
+ /*Data is restricted by declaring the instance variables as private and accessing them through getters */
  class encaps{
     private int bankid;
     private float balamount;
